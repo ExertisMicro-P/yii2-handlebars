@@ -1,5 +1,5 @@
 {
-	"name": "ExertisMicro-P/yii2-handlebars",
+	"name": "exertis/yii2-handlebars",
 	"description": "The Handlebars.php integration for the Yii framework. Fork of https://github.com/7coders/yii2-handlebars which disappeared mysteriously from GitHub.",
 	"keywords": ["yii2", "handlebars", "php", "renderer"],
 	"type": "yii2-extension",
