@@ -50,7 +50,7 @@ php composer.phar require --prefer-dist 7coders/yii2-handlebars "*"
 or add
 
 ```
-"yiisoft/yii2-twig": "*"
+"7coders/yii2-handlebars": "*"
 ```
 
 to the require section of your composer.json.
