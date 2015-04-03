@@ -17,7 +17,7 @@ return [
         'view' => [
             'renderers' => [
                 'handlebars' => [
-                    'class' => 'sevencoders\handlebars\ViewRenderer',
+                    'class' => 'exertis\handlebars\ViewRenderer',
                     // the file extension of Handlebars templates
                     // 'extension' => '.handlebars',
                     // path alias pointing to where Handlebars cache will be stored. Set to false to disable templates cache.
