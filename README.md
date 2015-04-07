@@ -17,7 +17,7 @@ return [
         'view' => [
             'renderers' => [
                 'handlebars' => [
-                    'class' => 'sevencoders\handlebars\ViewRenderer',
+                    'class' => 'exertis\handlebars\ViewRenderer',
                     // the file extension of Handlebars templates
                     // 'extension' => '.handlebars',
                     // path alias pointing to where Handlebars cache will be stored. Set to false to disable templates cache.
@@ -44,13 +44,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist 7coders/yii2-handlebars "*"
+php composer.phar require --prefer-dist exertis/yii2-handlebars "*"  
 ```
 
 or add
 
 ```
-"yiisoft/yii2-twig": "*"
+"exertis/yii2-handlebars": "*"  
 ```
 
 to the require section of your composer.json.

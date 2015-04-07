@@ -5,7 +5,7 @@
  * @license
  */
 
-namespace sevencoders\handlebars;
+namespace exertis\handlebars;
 
 use Yii;
 use yii\base\View;
